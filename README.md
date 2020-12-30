@@ -1,6 +1,6 @@
 # Hadoop JMX Exporter dockerfile
 
-Build docker image for [hadoop_jmx_exporter|https://github.com/opsnull/hadoop_jmx_exporter] project
+Build docker image for [hadoop_jmx_exporter](https://github.com/opsnull/hadoop_jmx_exporter) project
 
 ## Usage
 

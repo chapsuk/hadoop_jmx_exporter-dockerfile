@@ -1,5 +1,5 @@
 IMAGE_NAME=chapsuk/hadoop-jmx-exporter
-VERSION?=0.1.0
+VERSION?=0.1.1
 
 .PHONY: release
 release:
